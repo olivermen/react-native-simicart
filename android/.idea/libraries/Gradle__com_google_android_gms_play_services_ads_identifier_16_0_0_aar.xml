@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-ads-identifier:16.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/480a19fa640a86ed7bfa588fcd4eb7df/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/480a19fa640a86ed7bfa588fcd4eb7df/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/480a19fa640a86ed7bfa588fcd4eb7df/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5036cd249805f5f2983c3f66e13bec81/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/90010160c572b007c93f426e0487d964/jetified-play-services-ads-identifier-16.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/90010160c572b007c93f426e0487d964/jetified-play-services-ads-identifier-16.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/90010160c572b007c93f426e0487d964/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

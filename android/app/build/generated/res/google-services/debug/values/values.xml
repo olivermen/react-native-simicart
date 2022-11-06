@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">703840219754-kmf2dbvif26k6io26vmbqcgmhh6loanm.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">703840219754</string>
+    <string name="google_api_key" translatable="false">AIzaSyCHaDy-1Uf8YziuBUctXXkFCR7BwvRw88c</string>
+    <string name="google_app_id" translatable="false">1:703840219754:android:46dcb269e3f511b9519013</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCHaDy-1Uf8YziuBUctXXkFCR7BwvRw88c</string>
+    <string name="google_storage_bucket" translatable="false">albaharelectronics-cd314.appspot.com</string>
+    <string name="project_id" translatable="false">albaharelectronics-cd314</string>
+</resources>

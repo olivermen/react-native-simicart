@@ -1,0 +1,570 @@
+[
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_header_desktoplogoen.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_header_desktoplogoen.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_plugins_wishlist_iconheartempty.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_plugins_wishlist_iconheartempty.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_media_images_default667h.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-xhdpi\\media_images_default667h.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_newsletter_mobile.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_newsletter_mobile.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_iconmail.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_iconmail.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_iconmore.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_iconmore.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_iconreview.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_iconreview.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_media_images_default736h.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-xxhdpi\\media_images_default736h.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_iconinfo1.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_iconinfo1.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_media_images_default568h.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-xhdpi\\media_images_default568h.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_media_images_default812h.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-xxhdpi\\media_images_default812h.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_iconlist.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_iconlist.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_plugins_review_icon_iconstaractive.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_plugins_review_icon_iconstaractive.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_iconhome.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_iconhome.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_iconlogout.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_iconlogout.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_icongiftcard.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_icongiftcard.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnavigationstack_lib_module_views_assets_backiconmask.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigationstack_lib_module_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_media_splash.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\media_splash.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_entities_lib_maps_decode.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_entities_lib_maps_decode.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_characterentitieshtml4_index.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_characterentitieshtml4_index.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_community_reactnativesearchlist_images_iconsearch.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_community_reactnativesearchlist_images_iconsearch.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_ic_english.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_ic_english.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_iconadd.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_iconadd.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_icon_next.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_icon_next.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_splash_land.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable\\img_splash_land.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_octicons.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_iconwishlist.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_iconwishlist.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_media_ic_card_discover.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\media_ic_card_discover.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_plugins_wishlist_iconheartactive.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_plugins_wishlist_iconheartactive.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_iconphone.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_iconphone.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_core_base_components_layout_icons_ic_delivery.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_core_base_components_layout_icons_ic_delivery.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_iconsearch.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_iconsearch.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_media_ic_barrier.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\media_ic_barrier.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_header_logo.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_header_logo.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_launch_screen.xml.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\layout\\launch_screen.xml"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_iconimage.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_iconimage.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_ic_cart.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_ic_cart.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_media_images_default.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-xhdpi\\media_images_default.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_iconfilter.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_iconfilter.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_media_logo.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-xhdpi\\media_logo.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_customer_components_myaccount_iconedit.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_customer_components_myaccount_iconedit.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_iconremove.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_iconremove.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_iconlist3.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_iconlist3.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_entities_lib_maps_legacy.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_entities_lib_maps_legacy.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_media_logo.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\media_logo.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_community_reactnativesearchlist_images_iconback.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_community_reactnativesearchlist_images_iconback.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_ic_uncheck.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_ic_uncheck.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_grid.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_grid.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_media_ic_card_mastercard.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\media_ic_card_mastercard.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_launch_screen.xml.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\layout-land\\launch_screen.xml"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_iconclose.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_iconclose.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_iconcart.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_iconcart.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_iconprivacy.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_iconprivacy.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\app.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_plugins_review_icon_iconstar.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_plugins_review_icon_iconstar.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_media_ic_card_jcb.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\media_ic_card_jcb.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_iconinformation2.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_iconinformation2.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_iconminus.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_iconminus.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_icontrackorder.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_icontrackorder.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_stringifyentities_lib_constant_dangerous.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_stringifyentities_lib_constant_dangerous.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_iconlocation2.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_iconlocation2.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_iconlock.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_iconlock.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_iconplus.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_iconplus.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_background.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_background.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_iconmenu.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_iconmenu.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_ic_arrow_right.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_ic_arrow_right.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_foundation.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_foundation.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_splash_port.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable\\img_splash_port.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_entities_lib_maps_xml.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_entities_lib_maps_xml.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_csscolorkeywords_colors.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_csscolorkeywords_colors.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_icondeals.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_icondeals.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_zocial.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_zocial.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_ic_services.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_ic_services.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_media_splash_tablet.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\media_splash_tablet.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_zocial.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_zocial.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_logo.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_logo.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_iconuse.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_iconuse.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_media_images_defaultlandscapeipad.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\media_images_defaultlandscapeipad.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_core_base_components_layout_icons_ic_express_delivery.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_core_base_components_layout_icons_ic_express_delivery.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_iconcar.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_iconcar.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_ic_cart_header.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_ic_cart_header.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_src_customize_catalog_components_product_giftcard_timezones.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\src_customize_catalog_components_product_giftcard_timezones.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_icongoogle.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_icongoogle.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_characterentitieslegacy_index.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_characterentitieslegacy_index.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_media_ic_card_american_express.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\media_ic_card_american_express.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_entities_lib_maps_entities.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_entities_lib_maps_entities.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_nativebase_dist_src_basic_icon_nbicons.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_nativebase_dist_src_basic_icon_nbicons.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_iconmail.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_iconmail.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_iconsearch.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_iconsearch.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_search_not_found.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_search_not_found.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_iconclose1.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_iconclose1.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_media_images_default.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\media_images_default.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_media_scalesymbol.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\media_scalesymbol.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_iconlanguage.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_iconlanguage.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_media_images_defaultportraitipad.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\media_images_defaultportraitipad.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_iconlocation.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_iconlocation.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_antdesign.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_antdesign.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_iconcheck.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_iconcheck.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_core_base_components_layout_icons_ic_100.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_core_base_components_layout_icons_ic_100.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_ic_checked.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_ic_checked.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_core_base_components_layout_icons_ic_dollar.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_core_base_components_layout_icons_ic_dollar.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_ic_arabic.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_ic_arabic.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_footer_icon_iconinformation.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_footer_icon_iconinformation.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_media_ic_card_visa.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\media_ic_card_visa.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-hdpi\\node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_octicons.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_foundation.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_foundation.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json"
+    },
+    {
+        "merged": "E:\\Me\\IT_tasks\\India\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_customize_icon_icondirection.png.flat",
+        "source": "E:\\Me\\IT_tasks\\India\\android\\app\\src\\main\\res\\drawable-mdpi\\src_customize_icon_icondirection.png"
+    }
+]

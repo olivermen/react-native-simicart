@@ -1,0 +1,18 @@
+com/simicart/wraper/NativeMethodModule.java
+ com.simicart.wraper.NativeMethodModule
+ com.simicart.wraper.NativeMethodModule$1
+ com.simicart.wraper.NativeMethodModule$2
+ com.simicart.wraper.NativeMethodModule$DeviceTokenAsync
+com/simicart/wraper/NativeMethodPackage.java
+ com.simicart.wraper.NativeMethodPackage
+com/simicart/BuildConfig.java
+ com.simicart.BuildConfig
+com/simicart/MainActivity.java
+ com.simicart.MainActivity
+ com.simicart.MainActivity$1
+ com.simicart.MainActivity$2
+com/simicart/MainApplication.java
+ com.simicart.MainApplication
+ com.simicart.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

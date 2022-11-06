@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-places-placereport:16.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6873cf4a028ae1107e134ce34b4cb45e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6873cf4a028ae1107e134ce34b4cb45e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6873cf4a028ae1107e134ce34b4cb45e/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ec0b46eefa96f0edc8b28d40ec527aa/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9cfb3bf10dee556917c9261f89406fa1/jetified-play-services-places-placereport-16.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9cfb3bf10dee556917c9261f89406fa1/jetified-play-services-places-placereport-16.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9cfb3bf10dee556917c9261f89406fa1/jetified-play-services-places-placereport-16.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

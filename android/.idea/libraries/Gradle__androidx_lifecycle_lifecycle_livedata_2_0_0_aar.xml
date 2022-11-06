@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5bf9756a59568f218a14dd00fd52655a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5bf9756a59568f218a14dd00fd52655a/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5bf9756a59568f218a14dd00fd52655a/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9aafe2e71e6a0ae6501d44b0fec6694a/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebdf1b21acda14c0f3b42515fde52f8f/lifecycle-livedata-2.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebdf1b21acda14c0f3b42515fde52f8f/lifecycle-livedata-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebdf1b21acda14c0f3b42515fde52f8f/lifecycle-livedata-2.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.0.0/740ce61935bd789380c01178bd8ce402402ebd2f/lifecycle-livedata-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

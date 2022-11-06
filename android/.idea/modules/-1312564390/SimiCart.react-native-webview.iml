@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":react-native-webview" external.linked.project.path="$MODULE_DIR$/../../../../node_modules/react-native-webview/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="SimiCart" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":react-native-webview" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="3.4.1" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="4.2.2" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/main/res;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/debug/res;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/res/rs/debug;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/androidTest/res;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c98184e8329e0242ce68203d6d68d089/jars/classes.jar:/Users/macos/.gradle/caches/modules-2/files-2.1/com.facebook.infer.annotation/infer-annotation/0.11.2/f514ff4ca022a579d9cf7524846988b646ae4491/infer-annotation-0.11.2.jar:/Users/macos/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar:/Users/macos/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/24df6ab52b2e5df9f59dea4e0ca64f26/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/2b01fb632846082405d708cfb0f8c7a7/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/5c1102b47b14a6537f5762ee1d0a3173/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/27871fa2053fbfdbe4f8f9f789529ea4/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/9376d2f2a587dd207e1a348cd37c8d72/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/384777a82fa47c8b698426b67d00ef32/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/cb66216ebdea144ae19a83c7878412eb/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/d52e8d54c45867c7a727028a95c7be1d/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/8b7faa3a1aad8172da9d49e39882dc28/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/25e05b1ded714576a2e006a4bb6a801b/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/cee502b3e9c9ec3b628cac9e3310e9cb/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/a0098d0f70a20f612ad4df2b9fb004b6/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/d0147e922922a45db1e41cc3b0e04926/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/f0e244d13b510eec8a22ced345d2922a/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/432d46476fe5f0d77b2af977c7c84570/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/cd3de8754d756e4138a52c67285e3786/jars/classes.jar:/Users/macos/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.0.0/42858b26cafdaa69b6149f45dfc2894007bc2c7a/collection-1.0.0.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/b8b88104be338ab86ef01255448599e7/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/f2215035327f08f82518e80eaebc9661/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/2e5af52307fd930dbac19c7f9ae5e68e/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/ba7635bfef0a1f4bbe5a0617532c9c62/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/c65248b30538d92a9c61b4556d06530b/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/5eaa7aa0d542856489c8fb74388d5436/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/5bf9756a59568f218a14dd00fd52655a/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/42050c47f75dd08e0e0f143304c90ebd/jars/classes.jar:/Users/macos/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.0.0/e070ffae07452331bc5684734fce6831d531785c/lifecycle-common-2.0.0.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/8601062a1e128f86d295bd4a7fdc2614/jars/classes.jar:/Users/macos/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.0.0/bb21b9a11761451b51624ac428d1f1bb5deeac38/core-common-2.0.0.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/c20ae19d7f881a8a4b7a00fe0c67ac34/jars/classes.jar:/Users/macos/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.0.0/45599f2cd5965ac05a1488fa2a5c0cdd7c499ead/annotation-1.0.0.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/20c6ea895a9da8c5a76ccc4df4fcedd0/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/f685ea44f3c7e4e2eb7cabf8c14480be/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/1f5a0a9702081eb0cc65cb882f6c3ab1/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/3e70e65647b1cae52139cc02bd6311f0/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/df4cf1b854fd650c37df85e71e6dbb73/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/d77bbccc5af727b02a793504b41471de/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/974157dd827d390f622c67aae39e7359/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/b25e036eebd20f6e0eacabf0260d7272/jars/classes.jar:/Users/macos/.gradle/caches/transforms-2/files-2.1/881c1b6003963ac0ca93c832c5b5ef55/jars/classes.jar:/Users/macos/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.12.1/f689d3657c3f1fdbde4877bcddc668491a4ad46f/okhttp-urlconnection-3.12.1.jar:/Users/macos/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/dc6d02e4e68514eff5631963e28ca7742ac69efe/okhttp-3.12.1.jar:/Users/macos/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.15.0/bc28b5a964c8f5721eb58ee3f3c47a9bcbf4f4d8/okio-1.15.0.jar:/Users/macos/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.50/b529d1738c7e98bbfa36a4134039528f2ce78ebf/kotlin-stdlib-1.3.50.jar:/Users/macos/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.50/3d9cd3e1bc7b92e95f43d45be3bfbcf38e36ab87/kotlin-stdlib-common-1.3.50.jar:/Users/macos/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar:/Users/macos/Library/Android/sdk/platforms/android-29/android.jar:/Users/macos/Library/Android/sdk/build-tools/28.0.3/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="react-native-webview_debug" />
+          <option name="jvmTarget" value="1.6" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

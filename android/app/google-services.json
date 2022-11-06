@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "703840219754",
+    "project_id": "albaharelectronics-cd314",
+    "storage_bucket": "albaharelectronics-cd314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703840219754:android:46dcb269e3f511b9519013",
+        "android_client_info": {
+          "package_name": "com.simicart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703840219754-89858spsm7tn2tflsot8hf6jdbst0972.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simicart",
+            "certificate_hash": "50e72df3b17a641cd7ceaf9e87ead0df379c9ca9"
+          }
+        },
+        {
+          "client_id": "703840219754-kmf2dbvif26k6io26vmbqcgmhh6loanm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHaDy-1Uf8YziuBUctXXkFCR7BwvRw88c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703840219754-kmf2dbvif26k6io26vmbqcgmhh6loanm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "703840219754-tpqsu3psmqtiocfgmp7j95pp9l9jo7pm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simicart.enterprise"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703840219754:android:fb6b702fc622ab83519013",
+        "android_client_info": {
+          "package_name": "com.simicart.albahar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703840219754-tjonn4sduma4t6hu98l41i6b28q3qkcd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simicart.albahar",
+            "certificate_hash": "50e72df3b17a641cd7ceaf9e87ead0df379c9ca9"
+          }
+        },
+        {
+          "client_id": "703840219754-kmf2dbvif26k6io26vmbqcgmhh6loanm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHaDy-1Uf8YziuBUctXXkFCR7BwvRw88c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703840219754-kmf2dbvif26k6io26vmbqcgmhh6loanm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "703840219754-tpqsu3psmqtiocfgmp7j95pp9l9jo7pm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simicart.enterprise"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
